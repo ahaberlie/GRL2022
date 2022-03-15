@@ -16,7 +16,7 @@ then
 
 ```
 conda activate grl22
-conda install -c conda-forge xarray cartopy geopandas scipy numpy matplotlib jupyter notebook nb_conda_kernels
+conda install -c conda-forge dask netCDF4 xarray cartopy geopandas scipy numpy matplotlib jupyter notebook nb_conda_kernels
 ```
 
 The biggest headache is getting geopandas to play nice with the other packages.  This approach has been tested in a Windows machine. YMMV.
