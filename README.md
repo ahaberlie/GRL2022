@@ -9,7 +9,7 @@ The best way to get this package working is to first install miniconda.
 Then, install a python environment with conda-forge and geopandas as follows:
 
 ```
-conda create -n grl22 -c conda-forge python=3.9 geopandas
+conda create -n grl22 -c conda-forge python=3.8 geopandas
 ```
 
 then
@@ -31,7 +31,7 @@ pip install .
 
 Once this is complete, you should run jupyter notebook and select the grl22 kernel.
 
-# Instructions on how to access the derived data'
+# Instructions on how to access the derived data
 
 ### You can run this using notebooks/Fig_0_Download_Data
 
