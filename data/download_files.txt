@@ -1,0 +1,10 @@
+Run the notebook "Fig_0_Download_Data" or
+
+import tarfile
+import urllib.request as urllib2
+
+tgz = urllib2.urlopen("https://svrimg.niu.edu/grl_data/grl_data_22.tar.gz")
+data = tarfile.open(fileobj=tgz, mode='r:gz')
+data.extractall(path="../data")
+
+where path is the data directory in the base package directory

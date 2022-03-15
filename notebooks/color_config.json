@@ -1,0 +1,152 @@
+{
+  "HIST": {
+    "40 Grid Days": [
+      {"values": [1, 25, 50, 75, 100, 125, 150]},
+      {"colors": ["#f7fcb9","#d9f0a3","#addd8e","#78c679","#41ab5d","#238443"]},
+      {"over": "#005a32"},
+      {"under": "grey"}
+    ],
+    "50 Grid Days": [
+      {"values": [1, 15, 30, 45, 60, 75, 90]},
+      {"colors": ["#f7fcb9","#d9f0a3","#addd8e","#78c679","#41ab5d","#238443"]},
+      {"over": "#005a32"},
+      {"under": "grey"}
+    ],
+    "60 Grid Days": [
+      {"values": [1, 2, 5, 10, 15, 20, 25]},
+      {"colors": ["#f7fcb9","#d9f0a3","#addd8e","#78c679","#41ab5d","#238443"]},
+      {"over": "#005a32"},
+      {"under": "grey"}
+    ],
+	"40 Grid Days Season": [
+      {"values": [1, 5, 10, 15, 25, 50, 75]},
+      {"colors": ["#f7fcb9","#d9f0a3","#addd8e","#78c679","#41ab5d","#238443"]},
+      {"over": "#005a32"},
+      {"under": "grey"}
+    ],
+    "50 Grid Days Season": [
+      {"values": [1, 4, 8, 16, 24, 36, 48]},
+      {"colors": ["#f7fcb9","#d9f0a3","#addd8e","#78c679","#41ab5d","#238443"]},
+      {"over": "#005a32"},
+      {"under": "grey"}
+    ],
+    "60 Grid Days Season": [
+      {"values": [1, 2, 3, 5, 10, 15, 20]},
+      {"colors": ["#f7fcb9","#d9f0a3","#addd8e","#78c679","#41ab5d","#238443"]},
+      {"over": "#005a32"},
+      {"under": "grey"}
+    ],
+    "AFWA_CAPE_MU": [
+      {"values": [1, 10, 50, 100, 150, 200, 300]},
+      {"colors": ["#ffffd4", "#fee391", "#fec44f", "#fe9929", "#ec7014", "#cc4c02"]},
+      {"over": "#8c2d04"},
+      {"under": "grey"}
+    ],
+    "AFWA_CIN_MU": [
+      {"values": [-60, -45, -30, -15, -10, -5, 1]},
+      {"colors": ["#d7301f", "#ef6548", "#fc8d59", "#fdbb84", "#fdd49e", "#fef0d9"]},
+      {"over": "grey"},
+      {"under": "#990000"}
+    ]
+  },
+  "FUTR 4.5": {
+    "40 Grid Days": [
+      {"values": [-15, -10, -5, 0, 5, 10, 15]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "50 Grid Days": [
+      {"values": [-9, -6, -3, 0, 3, 6, 9]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "60 Grid Days": [
+      {"values": [-6, -4, -2, 0, 2, 4, 6]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "40 Grid Days Season": [
+      {"values": [-10, -5, -3, 0, 3, 5, 10]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "50 Grid Days Season": [
+      {"values": [-9, -6, -3, 0, 3, 6, 9]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "60 Grid Days Season": [
+      {"values": [-6, -4, -2, 0, 2, 4, 6]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "AFWA_CAPE_MU": [
+      {"values": [0, 25, 50, 75, 100, 150, 200]},
+      {"colors": ["#feedde", "#fdd0a2", "#fdae6b", "#fd8d3c", "#f16913", "#d94801"]},
+      {"over": "#8c2d04"},
+      {"under": "#ffffff"}
+    ],
+    "AFWA_CIN_MU": [
+      {"values": [-60, -45, -30, -15, -10, -5, 0]},
+      {"colors": ["#cb181d", "#ef3b2c", "#fb6a4a", "#fc9272", "#fcbba1", "#fee0d2"]},
+      {"over": "#ffffff"},
+      {"under": "#990000"}
+      ]
+  },
+  "FUTR 8.5": {
+    "40 Grid Days": [
+      {"values": [-15, -10, -5, 0, 5, 10, 15]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "50 Grid Days": [
+      {"values": [-9, -6, -3, 0, 3, 6, 9]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "60 Grid Days": [
+      {"values": [-6, -4, -2, 0, 2, 4, 6]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "40 Grid Days Season": [
+      {"values": [-10, -5, -3, 0, 3, 5, 10]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "50 Grid Days Season": [
+      {"values": [-9, -6, -3, 0, 3, 6, 9]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "60 Grid Days Season": [
+      {"values": [-6, -4, -2, 0, 2, 4, 6]},
+      {"colors": ["#4393c3", "#92c5de", "#d1e5f0", "#fddbc7", "#f4a582", "#d6604d"]},
+      {"over": "#b2182b"},
+      {"under": "#2166ac"}
+    ],
+    "AFWA_CAPE_MU": [
+      {"values": [0, 25, 50, 75, 100, 150, 200]},
+      {"colors": ["#feedde", "#fdd0a2", "#fdae6b", "#fd8d3c", "#f16913", "#d94801"]},
+      {"over": "#8c2d04"},
+      {"under": "#ffffff"}
+    ],
+    "AFWA_CIN_MU": [
+      {"values": [-60, -45, -30, -15, -10, -5, 0]},
+      {"colors": ["#cb181d", "#ef3b2c", "#fb6a4a", "#fc9272", "#fcbba1", "#fee0d2"]},
+      {"over": "#ffffff"},
+      {"under": "#99000d"}
+    ]
+  }
+}
