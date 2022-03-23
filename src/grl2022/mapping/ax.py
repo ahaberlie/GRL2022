@@ -67,9 +67,9 @@ def draw_geography(ax):
 
 def setup_map(row_idx, col_idx, rows, cols, extent='ECONUS', longitudes='ECONUS'):
     
-    figure_idx = col_idx + (row_idx * 3)
+    figure_idx = col_idx + (row_idx * cols)
     
-    ax = plt.subplot(5, 3, figure_idx + 1, projection=projection)
+    ax = plt.subplot(rows, cols, figure_idx + 1, projection=projection)
 
     ax.set_extent(extents[extent])
 
