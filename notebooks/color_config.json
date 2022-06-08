@@ -87,7 +87,7 @@
       {"under": "#2166ac"}
     ],
     "AFWA_CAPE_MU": [
-      {"values": [0, 25, 50, 75, 100, 150, 200]},
+      {"values": [1, 25, 50, 75, 100, 125, 150]},
       {"colors": ["#feedde", "#fdd0a2", "#fdae6b", "#fd8d3c", "#f16913", "#d94801"]},
       {"over": "#8c2d04"},
       {"under": "#ffffff"}
@@ -137,7 +137,7 @@
       {"under": "#2166ac"}
     ],
     "AFWA_CAPE_MU": [
-      {"values": [0, 25, 50, 75, 100, 150, 200]},
+      {"values": [1, 25, 50, 75, 100, 125, 150]},
       {"colors": ["#feedde", "#fdd0a2", "#fdae6b", "#fd8d3c", "#f16913", "#d94801"]},
       {"over": "#8c2d04"},
       {"under": "#ffffff"}
